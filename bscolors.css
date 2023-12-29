@@ -1,0 +1,224 @@
+/* BUTTONS COLORS */
+.btn-teal{
+    background-color: #20c997; 
+    
+}
+
+.btn-indigo{
+    background-color: #6610f2; 
+}
+
+.btn-green{
+    background-color: #198754; 
+}
+
+.btn-cyan{
+    background-color: #0dcaf0; 
+}
+
+.btn-yellow{
+    background-color: #ffc107; 
+}
+
+.btn-red{
+    background-color: #dc3545; 
+}
+
+.btn-orange{
+    background-color: #fd7e14; 
+}
+
+
+.btn-pink{
+    background-color: #d63384; 
+}
+
+.btn-blue{
+    background-color: #0066ff; 
+}
+
+/* BTN:HOVER */
+
+
+.btn-teal:hover{
+    background-color: #1aa179; 
+    
+}
+
+.btn-indigo:hover{
+    background-color: #59359a; 
+}
+
+.btn-green:hover{
+    background-color: #146c43; 
+}
+
+.btn-cyan:hover{
+    background-color: #0aa2c0; 
+}
+
+.btn-yellow:hover{
+    background-color: #cc9a06; 
+}
+
+.btn-red:hover{
+    background-color: #dc3545; 
+}
+
+.btn-orange:hover{
+    background-color: #ca6510; 
+}
+
+.btn-pink:hover{
+    background-color: #ab296a; 
+}
+
+.btn-blue:hover{
+    background-color: #0a58ca; 
+}
+
+/* TEXT COLORS */
+.text-teal{
+    color: #20c997; 
+}
+
+.text-indigo{
+    color: #6610f2; 
+}
+
+.text-green{
+    color: #198754; 
+}
+
+.text-cyan{
+    color: #0dcaf0; 
+}
+
+.text-yellow{
+    color: #ffc107; 
+}
+
+.text-red{
+    color: #dc3545; 
+}
+
+.text-orange{
+    color: #fd7e14; 
+}
+
+.text-pink{
+    color: #d63384; 
+}
+
+.text-blue{
+    color: #0d6efd; 
+}
+
+.text-blue{
+    color: #6f42c1; 
+}
+
+
+/* bg background-colorS */
+.bg-teal{
+    background-color: #20c997; 
+}
+
+.bg-indigo{
+    background-color: #6610f2; 
+}
+
+.bg-green{
+    background-color: #198754; 
+}
+
+.bg-cyan{
+    background-color: #0dcaf0; 
+}
+
+.bg-yellow{
+    background-color: #ffc107; 
+}
+
+.bg-red{
+    background-color: #dc3545; 
+}
+
+.bg-orange{
+    background-color: #fd7e14; 
+}
+
+.bg-pink{
+    background-color: #d63384; 
+}
+
+.bg-blue{
+    background-color: #0d6efd; 
+}
+
+
+/* OPICITY */
+.opicity-100{
+    opacity: 1;
+}
+.opicity-95{
+    opacity: 0.95;
+}
+.opicity-90{
+    opacity: 0.9;
+}
+.opicity-85{
+    opacity: 0.85;
+}
+.opicity-80{
+    opacity: 0.8;
+}
+.opicity-75{
+    opacity: 0.75;
+}
+.opicity-70{
+    opacity: 0.70;
+}
+.opicity-65{
+    opacity: 0.65;
+}
+.opicity-60{
+    opacity: 0.6;
+}
+.opicity-55{
+    opacity: 0.55;
+}
+.opicity-50{
+    opacity: 0.5;
+}
+.opicity-45{
+    opacity: 0.45;
+}
+.opicity-40{
+    opacity: 0.4;
+}
+.opicity-35{
+    opacity: 0.35;
+}
+.opicity-30{
+    opacity: 0.3;
+}
+.opicity-25{
+    opacity: 0.25;
+}
+.opicity-20{
+    opacity: 0.20;
+}
+.opicity-15{
+    opacity: 0.15;
+}
+.opicity-10{
+    opacity: 0.1;
+}
+.opicity-5{
+    opacity: 0.05;
+}
+.opicity-0{
+    opacity: 0;
+}
+
